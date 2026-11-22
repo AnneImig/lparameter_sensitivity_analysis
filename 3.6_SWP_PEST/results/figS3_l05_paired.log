@@ -1,0 +1,48 @@
+
+===== Ly1
+usable: l free 63.5%, l = 0.5 74.5% (non-physical removed at l = 0.5: 8,759)
+best KGE: l free 0.836 (l = -1.41); l = 0.5 0.822; difference 0.014
+best run of the l-free sweep at l = 0.5: KGE 0.570
+complete in both: 608,417; median paired change +0.0001; l = 0.5 better in 50.1%
+best 1.0% of the l-free sweep (n = 6352, KGE >= 0.801): at l = 0.5 100% complete, median KGE 0.800, median change -0.007 [IQR -0.020, -0.000]; runs reaching this KGE with l = 0.5: 8911
+best 0.1% of the l-free sweep (n = 636, KGE >= 0.815): at l = 0.5 100% complete, median KGE 0.810, median change -0.007 [IQR -0.016, -0.002]; runs reaching this KGE with l = 0.5: 998
+    l  best_free  best_twin_at_0.5
+-1.75      0.820             0.822
+-1.25      0.836             0.822
+-0.75      0.823             0.821
+-0.25      0.821             0.822
+ 0.25      0.822             0.821
+ 0.75      0.821             0.821
+ 1.25      0.820             0.822
+ 1.75      0.820             0.822
+ 2.25      0.821             0.822
+ 2.75      0.820             0.821
+ 3.25      0.821             0.822
+ 3.75      0.821             0.822
+ 4.25      0.819             0.822
+ 4.75      0.819             0.821
+
+===== Ly2
+usable: l free 66.6%, l = 0.5 71.3% (non-physical removed at l = 0.5: 14,707)
+best KGE: l free 0.753 (l = -1.34); l = 0.5 0.587; difference 0.165
+best run of the l-free sweep at l = 0.5: KGE 0.298
+complete in both: 641,726; median paired change +0.0022; l = 0.5 better in 53.4%
+best 1.0% of the l-free sweep (n = 6658, KGE >= 0.541): at l = 0.5 100% complete, median KGE 0.546, median change -0.005 [IQR -0.022, +0.001]; runs reaching this KGE with l = 0.5: 5907
+best 0.1% of the l-free sweep (n = 666, KGE >= 0.579): at l = 0.5 100% complete, median KGE 0.302, median change -0.316 [IQR -0.395, -0.244]; runs reaching this KGE with l = 0.5: 79
+    l  best_free  best_twin_at_0.5
+-1.75      0.724             0.585
+-1.25      0.753             0.584
+-0.75      0.733             0.586
+-0.25      0.619             0.583
+ 0.25      0.587             0.587
+ 0.75      0.581             0.585
+ 1.25      0.581             0.583
+ 1.75      0.584             0.584
+ 2.25      0.584             0.587
+ 2.75      0.582             0.583
+ 3.25      0.583             0.585
+ 3.75      0.585             0.582
+ 4.25      0.589             0.583
+ 4.75      0.583             0.581
+
+wrote /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/3.6_SWP_PEST/results/figS3_l05_paired.png

@@ -1,0 +1,93 @@
+{
+  "model": "model_ly2",
+  "stage": "morris_swp",
+  "started": "2026-11-13T06:23:59+00:00",
+  "finished": "2026-11-13T06:47:51+00:00",
+  "git": {
+    "sha": "838a4971fb9ea93ca9c6ca3a0e5bf826c06a817c",
+    "branch": "stages-and-condor",
+    "dirty": true
+  },
+  "python": "3.12.14",
+  "platform": "Darwin arm64",
+  "bounds": {
+    "1": {
+      "theta_r": [
+        0.001,
+        0.1
+      ],
+      "theta_s": [
+        0.15,
+        0.4
+      ],
+      "alpha": [
+        0.001,
+        0.5
+      ],
+      "n": [
+        1.05,
+        2.3
+      ],
+      "k_s": [
+        10.0,
+        80000.0
+      ],
+      "l": [
+        -2.0,
+        5.0
+      ]
+    }
+  },
+  "sample": {
+    "n_reals": 14000,
+    "n_params": 6,
+    "method": "morris trajectories (SALib, r=2000, p=10) from /Users/scratch/portega/SA_6VGN_parameters/results/ly2_morris_p10/design/morris_points.csv"
+  },
+  "execution": {
+    "mode": "condor",
+    "master_port": 4004,
+    "workers": 70,
+    "dry_run": false,
+    "exe": "pestpp-swp",
+    "pestpp_version": "pestpp-swp - a parametric sweep utility, version 5.2.27"
+  },
+  "results": {
+    "sweep_in.csv": {
+      "name": "sweep_in.csv",
+      "bytes": 1307939,
+      "mb": 1.308,
+      "sha256": "4f44f579f32ff5f7709be825916442c26ab250103e1700a3e6a4ccadd05d6ae6",
+      "trackable": true
+    },
+    "sweep_out.csv": {
+      "name": "sweep_out.csv",
+      "bytes": 93592951,
+      "mb": 93.593,
+      "sha256": "4284d1046bb004d607f8d07e3e591ff8d0829459cf4d42cad5dd3ed65a8f7999",
+      "trackable": true
+    },
+    "metrics.csv": {
+      "name": "metrics.csv",
+      "bytes": 858951,
+      "mb": 0.859,
+      "sha256": "14a45e5356e98ccb30922ee3b91046311fd26be3a2f072548dd646539ba7ee4e",
+      "trackable": true
+    },
+    "failed_runs.csv": {
+      "name": "failed_runs.csv",
+      "bytes": 47073,
+      "mb": 0.047,
+      "sha256": "6a14267c74133721aadddf5ea8994b0dfbde558efe72aa87d178975d2b56a642",
+      "trackable": true
+    }
+  },
+  "failures": {
+    "failed": 553,
+    "total": 14000,
+    "fraction": 0.0395,
+    "listed_in": "failed_runs.csv"
+  },
+  "warnings": [
+    "sweep_out.csv is 93.6 MB, over 50 MB."
+  ]
+}

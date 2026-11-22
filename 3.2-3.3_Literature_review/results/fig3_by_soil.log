@@ -1,0 +1,15 @@
+                 count  median   min    max
+soil_class                                 
+clay                 4    0.25 -0.09   0.50
+clay loam            5    0.00 -0.70   0.50
+loam                 6    0.25 -2.44   0.50
+loamy sand           7    0.50 -0.87   3.00
+peat                 7   -1.96 -2.12  10.00
+sand                24    0.50 -3.50   5.32
+sandy clay loam      1    0.50  0.50   0.50
+sandy loam           7    0.50 -3.39  11.70
+silt                 3    0.50  0.00   0.50
+silt loam            8    0.50 -5.79   0.50
+silty clay           3   -0.70 -3.40   2.50
+silty clay loam      1    0.50  0.50   0.50
+silty sand           3   -2.50 -2.50  -1.50

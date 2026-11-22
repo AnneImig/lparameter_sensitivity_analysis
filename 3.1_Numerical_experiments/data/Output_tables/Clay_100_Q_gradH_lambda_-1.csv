@@ -1,0 +1,7 @@
+% Model,Unsat_5m-1D_VgLambda_v01.mph
+% Version,COMSOL 6.4.0.429
+% Date,"Aug 16 2026, 15:21"
+% Table,Table 1 - 
+% lambda,"dl.bndflux/dl.rho (mm/yr), VZ total mass discharge",(top(dl.H)-bot(dl.H))/L (1)
+-4,100.00000000005711,0.04531628636045126
+-2,99.99999999996116,0.058888916143969516

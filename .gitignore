@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+# written by every HYDRUS-1D / PEST++ run
+/tmp_copy/
+/LEVEL_01.dir
+*_workers/
+*_master/
+*_stage/
+# new runs; the archived results sit in the named subfolders
+/3.4_SA_SEN_PEST/results/model_*_morris*/
+/3.4_SA_SEN_PEST/results/model_*_morris_r_*
+/3.6_SWP_PEST/results/model_*_sweep_parallel/

@@ -1,0 +1,95 @@
+{
+  "model": "model_ly1",
+  "stage": "sweep",
+  "started": "2026-10-13T08:27:06+00:00",
+  "finished": "2026-10-14T05:38:24+00:00",
+  "git": {
+    "sha": "a042a08d80aa5038ace87efc499936a7d0e34e1a",
+    "branch": "stages-and-condor",
+    "dirty": true
+  },
+  "python": "3.12.14",
+  "platform": "Darwin arm64",
+  "bounds": {
+    "1": {
+      "theta_r": [
+        0.001,
+        0.1
+      ],
+      "theta_s": [
+        0.1,
+        0.4
+      ],
+      "alpha": [
+        0.005,
+        0.5
+      ],
+      "n": [
+        1,
+        4
+      ],
+      "k_s": [
+        4000,
+        80000
+      ],
+      "l": [
+        -2.0,
+        5.0
+      ]
+    }
+  },
+  "sample": {
+    "n_reals": 1000000,
+    "n_params": 6,
+    "method": "lhs",
+    "seed": 42
+  },
+  "execution": {
+    "mode": "condor",
+    "master_port": 4004,
+    "workers": 70,
+    "dry_run": false,
+    "exe": "pestpp-swp",
+    "pestpp_version": "pestpp-swp - a parametric sweep utility, version 5.2.27"
+  },
+  "results": {
+    "sweep_in.csv": {
+      "name": "sweep_in.csv",
+      "bytes": 122777147,
+      "mb": 122.777,
+      "sha256": "d52da29afbdca82e4ff20a94ef4f03e2db9b1fc4260ac54e137cb6befbb4dfe5",
+      "trackable": false
+    },
+    "sweep_out.csv": {
+      "name": "sweep_out.csv",
+      "bytes": 6951049099,
+      "mb": 6951.049,
+      "sha256": "0f91c7e4da6c12db473df423aa9a901e617fc3f2de02fdd2abf9df8aaef8849f",
+      "trackable": false
+    },
+    "metrics.csv": {
+      "name": "metrics.csv",
+      "bytes": 49366223,
+      "mb": 49.366,
+      "sha256": "f5c018924b6f29721aeb23aa1b43144beb4c58a443041fdf1a3e7b65ebf3dff6",
+      "trackable": true
+    },
+    "failed_runs.csv": {
+      "name": "failed_runs.csv",
+      "bytes": 3883447,
+      "mb": 3.883,
+      "sha256": "f5b0f572c171f10a53fa1d6921f8392e1d63feff58af0de3c77b92911246295a",
+      "trackable": true
+    }
+  },
+  "failures": {
+    "failed": 32408,
+    "total": 1000000,
+    "fraction": 0.032408,
+    "listed_in": "failed_runs.csv"
+  },
+  "warnings": [
+    "sweep_in.csv is 122.8 MB, over the 100 MB tracking ceiling -- it stays local; this manifest keeps its size and hash.",
+    "sweep_out.csv is 6951.0 MB, over the 100 MB tracking ceiling -- it stays local; this manifest keeps its size and hash."
+  ]
+}

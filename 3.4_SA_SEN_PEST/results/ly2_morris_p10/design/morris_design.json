@@ -1,0 +1,40 @@
+{
+ "model": "model_ly2",
+ "r": 2000,
+ "p": 10,
+ "seed": 42,
+ "delta": 0.5555555555555556,
+ "bounds": {
+  "thr1": [
+   0.001,
+   0.1
+  ],
+  "ths1": [
+   0.15,
+   0.4
+  ],
+  "alf1": [
+   0.001,
+   0.5
+  ],
+  "vgn1": [
+   1.05,
+   2.3
+  ],
+  "ks1": [
+   10.0,
+   80000.0
+  ],
+  "l1": [
+   -2.0,
+   5.0
+  ]
+ },
+ "log_params": [
+  "alf1",
+  "ks1"
+ ],
+ "n_runs": 14000,
+ "block": 7,
+ "sampler": "SALib.sample.morris.sample (no trajectory optimisation)"
+}

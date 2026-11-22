@@ -1,0 +1,37 @@
+{
+ "model": "model_ly1",
+ "rain_L": 2903.879999999996,
+ "runs": 1000000,
+ "lost_free": 0.36482899999999996,
+ "lost_fixed": 0.24672499999999997,
+ "nonphysical_fixed": 8759,
+ "best_kge_free_all": 0.8362410626603456,
+ "best_kge_fixed_all": 0.8220303030802361,
+ "best_kge_fixed_physical": 0.8220303030802361,
+ "best_fixed_run": 385518,
+ "kge_above_0_5": {
+  "free": 407094,
+  "fixed_physical": 435481
+ },
+ "paired_complete_both": 616811,
+ "paired_median_delta_kge": -1.5935859696170063e-05,
+ "paired_share_better_fixed": 0.4997219569689905,
+ "best_kge_free_physical_top2000": 0.8362410626603447,
+ "top2000_nonphysical_free": 0
+}
+ centre  median    q25   q75  best_free  best_fixed_twin
+  -1.75   0.118  0.015 0.415      0.820            0.822
+  -1.25   0.042 -0.001 0.215      0.836            0.822
+  -0.75   0.028 -0.004 0.163      0.823            0.821
+  -0.25   0.023 -0.002 0.108      0.821            0.822
+   0.25   0.005 -0.001 0.029      0.822            0.821
+   0.75  -0.004 -0.025 0.002      0.821            0.821
+   1.25  -0.013 -0.071 0.007      0.820            0.822
+   1.75  -0.014 -0.092 0.017      0.820            0.822
+   2.25  -0.016 -0.106 0.027      0.821            0.822
+   2.75  -0.018 -0.120 0.034      0.820            0.821
+   3.25  -0.017 -0.123 0.044      0.821            0.822
+   3.75  -0.013 -0.117 0.054      0.821            0.822
+   4.25  -0.012 -0.113 0.062      0.819            0.822
+   4.75  -0.008 -0.106 0.069      0.819            0.821
+wrote /Users/scratch/portega/SA_6VGN_parameters/results/l05_1M/results/model_ly1/sweep/figures/delta_kge_by_l.png

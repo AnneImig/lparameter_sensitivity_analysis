@@ -1,0 +1,16 @@
+wrote /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/3.6_SWP_PEST/results/figS4_corner_ly1.png
+  Ly1 strongest pairs in best 1 %: vgn1-l1 -0.64, thr1-ths1 +0.55, ths1-alf1 +0.29, alf1-l1 -0.27, alf1-vgn1 -0.23
+  Ly1 thr1: 5-95 % width best 1 % / usable = 1.01, best 0.1 % / usable = 1.01
+  Ly1 ths1: 5-95 % width best 1 % / usable = 0.66, best 0.1 % / usable = 0.62
+  Ly1 alf1: 5-95 % width best 1 % / usable = 0.58, best 0.1 % / usable = 0.35
+  Ly1 vgn1: 5-95 % width best 1 % / usable = 0.28, best 0.1 % / usable = 0.23
+  Ly1 ks1: 5-95 % width best 1 % / usable = 1.00, best 0.1 % / usable = 0.79
+  Ly1 l1: 5-95 % width best 1 % / usable = 0.93, best 0.1 % / usable = 0.88
+wrote /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/3.6_SWP_PEST/results/figS5_corner_ly2.png
+  Ly2 strongest pairs in best 1 %: alf1-ks1 +0.75, ths1-vgn1 -0.42, vgn1-l1 -0.40, thr1-ths1 +0.33, alf1-l1 -0.28
+  Ly2 thr1: 5-95 % width best 1 % / usable = 1.00, best 0.1 % / usable = 0.99
+  Ly2 ths1: 5-95 % width best 1 % / usable = 0.82, best 0.1 % / usable = 0.93
+  Ly2 alf1: 5-95 % width best 1 % / usable = 0.98, best 0.1 % / usable = 0.92
+  Ly2 vgn1: 5-95 % width best 1 % / usable = 0.57, best 0.1 % / usable = 0.71
+  Ly2 ks1: 5-95 % width best 1 % / usable = 0.98, best 0.1 % / usable = 0.96
+  Ly2 l1: 5-95 % width best 1 % / usable = 1.01, best 0.1 % / usable = 0.48

@@ -1,0 +1,14 @@
+wrote /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/3.6_SWP_PEST/results/figS6_corner_l05_ly1.png
+  Ly1 thr1: best 1 % l free median 0.0492 [0.00564, 0.0952]   l = 0.5 median 0.0497 [0.00594, 0.0948]
+  Ly1 ths1: best 1 % l free median 0.247 [0.176, 0.355]   l = 0.5 median 0.235 [0.171, 0.312]
+  Ly1 alf1: best 1 % l free median -0.737 [-1.37, -0.34]   l = 0.5 median -0.722 [-1.25, -0.338]
+  Ly1 vgn1: best 1 % l free median 1.31 [1.09, 1.72]   l = 0.5 median 1.38 [1.13, 1.66]
+  Ly1 ks1: best 1 % l free median 4.12 [3.65, 4.82]   l = 0.5 median 4.18 [3.66, 4.83]
+  Ly1: best 1 % sets shared by both sweeps: 2744 of 6352 (43%)
+wrote /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/3.6_SWP_PEST/results/figS7_corner_l05_ly2.png
+  Ly2 thr1: best 1 % l free median 0.0512 [0.00604, 0.0953]   l = 0.5 median 0.0522 [0.00647, 0.0954]
+  Ly2 ths1: best 1 % l free median 0.206 [0.12, 0.342]   l = 0.5 median 0.193 [0.116, 0.311]
+  Ly2 alf1: best 1 % l free median -1.69 [-2.83, -0.491]   l = 0.5 median -1.64 [-2.79, -0.493]
+  Ly2 vgn1: best 1 % l free median 1.13 [1.05, 2.42]   l = 0.5 median 1.12 [1.05, 1.31]
+  Ly2 ks1: best 1 % l free median 2.95 [1.16, 4.61]   l = 0.5 median 2.89 [1.16, 4.65]
+  Ly2: best 1 % sets shared by both sweeps: 4426 of 6658 (66%)

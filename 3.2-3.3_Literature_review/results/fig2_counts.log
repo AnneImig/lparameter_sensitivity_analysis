@@ -1,0 +1,9 @@
+Saved: /Users/anneimig/l_parameter/lparameter_sensitivity_analysis/Literature_review/results/fig2_SA_methods_and_l_treatment.png
+
+Method family counts:
+  oat          n=17  (25%)
+  local        n=14  (21%)
+  global       n= 9  (13%)
+  inverse      n= 7  (10%)
+  monte_carlo  n= 7  (10%)
+  qualitative  n=14  (21%)

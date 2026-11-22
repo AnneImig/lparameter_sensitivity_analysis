@@ -1,0 +1,65 @@
+{
+  "n_realizations_run": 1000000,
+  "outcomes": {
+    "scored": 753275,
+    "sentinel": 240625,
+    "flagged": 6100
+  },
+  "kge": {
+    "n": 753275,
+    "max": 0.8220303030802361,
+    "median": 0.581227129822259,
+    "n_above_0": 695945,
+    "n_above_0_5": 437601,
+    "n_above_0_8": 9809,
+    "n_below_minus_1": 44
+  },
+  "r2": {
+    "max": 0.7407337184135089,
+    "median": 0.4775738245439535
+  },
+  "best_realization": {
+    "input_run_id": 385518,
+    "kge_q": 0.8220303030802361,
+    "r2_q": 0.7102163226898093,
+    "thr1": 0.0939468720945572,
+    "ths1": 0.2600524739159127,
+    "alf1": 0.2393521965169965,
+    "vgn1": 1.180099820551463,
+    "ks1": 4967.256193299743
+  },
+  "loss_by_parameter_extremes": {
+    "thr1": {
+      "lowest_decile_loss": 0.2501,
+      "highest_decile_loss": 0.24856
+    },
+    "ths1": {
+      "lowest_decile_loss": 0.23565,
+      "highest_decile_loss": 0.26475
+    },
+    "alf1": {
+      "lowest_decile_loss": 0.03952,
+      "highest_decile_loss": 0.47872
+    },
+    "vgn1": {
+      "lowest_decile_loss": 0.0005,
+      "highest_decile_loss": 0.82563
+    },
+    "ks1": {
+      "lowest_decile_loss": 0.28732,
+      "highest_decile_loss": 0.24123
+    }
+  },
+  "spearman_kge": {
+    "thr1": -0.17020687400222073,
+    "ths1": 0.5488674042490165,
+    "alf1": -0.01961061650005705,
+    "vgn1": -0.3984622262595428,
+    "ks1": -0.16165675047918016
+  },
+  "behavioral_cut": {
+    "metric": "kge_q",
+    "threshold": 0.8027408678580881,
+    "n": 7533
+  }
+}

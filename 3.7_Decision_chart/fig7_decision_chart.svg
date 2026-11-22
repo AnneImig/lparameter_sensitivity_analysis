@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="540.288pt" height="447.84pt" viewBox="0 0 540.288 447.84" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-17T14:21:11.626950</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 447.84 
+L 540.288 447.84 
+L 540.288 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 249.696 46.08 
+L 249.696 57.6 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 249.696 54.9945 
+Q 249.696 55.296015 249.696 53.808676 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 252.896 47.408676 
+L 249.696 53.808676 
+L 246.496 47.408676 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 177.696 82.368 
+L 66.24 82.368 
+L 66.24 126.144 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 66.24 110.630025 
+Q 66.24 117.385195 66.24 122.35151 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 69.44 115.95151 
+L 66.24 122.35151 
+L 63.04 115.95151 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 66.24 186.048 
+L 66.24 212.544 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 66.24 203.945737 
+Q 66.24 207.243557 66.24 208.752523 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 69.44 202.352523 
+L 66.24 208.752523 
+L 63.04 202.352523 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 123.84 156.384 
+L 139.104 156.384 
+L 139.104 205.344 
+L 182.304 205.344 
+L 182.304 212.544 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 182.304 211.663687 
+Q 182.304 212.103844 182.304 210.755146 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 185.504 204.355146 
+L 182.304 210.755146 
+L 179.104 204.355146 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 249.696 106.848 
+L 249.696 114.624 
+L 211.104 114.624 
+L 211.104 126.72 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 211.104 123.880275 
+Q 211.104 124.30041 211.104 122.931691 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 214.304 116.531691 
+L 211.104 122.931691 
+L 207.904 116.531691 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 211.104 186.048 
+L 211.104 212.544 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 211.104 203.945737 
+Q 211.104 207.243557 211.104 208.752523 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 214.304 202.352523 
+L 211.104 208.752523 
+L 207.904 202.352523 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 268.704 156.384 
+L 307.584 156.384 
+L 307.584 205.344 
+L 326.88 205.344 
+L 326.88 212.544 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 326.88 211.663687 
+Q 326.88 212.103844 326.88 210.755146 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 330.08 204.355146 
+L 326.88 210.755146 
+L 323.68 204.355146 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 321.696 82.368 
+L 423.36 82.368 
+L 423.36 126.144 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 423.36 110.630025 
+Q 423.36 117.385195 423.36 122.35151 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 426.56 115.95151 
+L 423.36 122.35151 
+L 420.16 115.95151 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 211.104 267.264 
+L 211.104 284.256 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 211.104 279.460406 
+Q 211.104 280.858341 211.104 280.46742 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 214.304 274.06742 
+L 211.104 280.46742 
+L 207.904 274.06742 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 302.688 316.224 
+L 374.976 316.224 
+L 374.976 267.264 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 374.976 284.844656 
+Q 374.976 277.052254 374.976 271.048705 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 371.776 277.448705 
+L 374.976 271.048705 
+L 378.176 277.448705 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 211.104 348.192 
+L 211.104 370.08 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 211.104 363.321225 
+Q 211.104 365.699007 211.104 366.287934 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 214.304 359.887934 
+L 211.104 366.287934 
+L 207.904 359.887934 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 66.24 267.264 
+L 66.24 370.08 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 66.24 330.954195 
+Q 66.24 349.516504 66.24 366.28996 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 69.44 359.88996 
+L 66.24 366.28996 
+L 63.04 359.88996 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_13">
+    <path d="M 423.36 163.584 
+L 423.36 370.08 
+" clip-path="url(#p010ae7aefb)" style="fill: none; stroke: #404040; stroke-width: 1.6"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 423.36 289.480518 
+Q 423.36 328.77916 423.36 366.288949 
+" style="fill: none; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 426.56 359.888949 
+L 423.36 366.288949 
+L 420.16 359.888949 
+z
+" style="fill: #404040; stroke: #404040; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 108.576 15.84 
+L 391.104 15.84 
+Q 397.44 15.84 397.44 22.176 
+L 397.44 39.744 
+Q 397.44 46.08 391.104 46.08 
+L 108.576 46.08 
+Q 102.24 46.08 102.24 39.744 
+L 102.24 22.176 
+Q 102.24 15.84 108.576 15.84 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #e8e8e8; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 249.696 57.888 
+L 321.696 82.368 
+L 249.696 106.848 
+L 177.696 82.368 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #ffffff; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 66.24 126.864 
+L 123.84 156.384 
+L 66.24 185.904 
+L 8.64 156.384 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #ffffff; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 16.992 212.544 
+L 116.064 212.544 
+Q 122.4 212.544 122.4 218.88 
+L 122.4 260.928 
+Q 122.4 267.264 116.064 267.264 
+L 16.992 267.264 
+Q 10.656 267.264 10.656 260.928 
+L 10.656 218.88 
+Q 10.656 212.544 16.992 212.544 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #f2a7a0; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 211.104 126.864 
+L 268.704 156.384 
+L 211.104 185.904 
+L 153.504 156.384 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #ffffff; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 161.856 212.544 
+L 260.64 212.544 
+Q 266.976 212.544 266.976 218.88 
+L 266.976 260.928 
+Q 266.976 267.264 260.64 267.264 
+L 161.856 267.264 
+Q 155.52 267.264 155.52 260.928 
+L 155.52 218.88 
+Q 155.52 212.544 161.856 212.544 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #fbd0a0; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 296.64 212.544 
+L 405.504 212.544 
+Q 411.84 212.544 411.84 218.88 
+L 411.84 260.928 
+Q 411.84 267.264 405.504 267.264 
+L 296.64 267.264 
+Q 290.304 267.264 290.304 260.928 
+L 290.304 218.88 
+Q 290.304 212.544 296.64 212.544 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #c8e6c0; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 386.496 126.144 
+L 460.224 126.144 
+Q 466.56 126.144 466.56 132.48 
+L 466.56 157.248 
+Q 466.56 163.584 460.224 163.584 
+L 386.496 163.584 
+Q 380.16 163.584 380.16 157.248 
+L 380.16 132.48 
+Q 380.16 126.144 386.496 126.144 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #f2a7a0; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 211.104 284.256 
+L 302.544 316.224 
+L 211.104 348.192 
+L 119.664 316.224 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #ffffff; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 26.496 370.08 
+L 472.608 370.08 
+Q 478.944 370.08 478.944 376.416 
+L 478.944 425.664 
+Q 478.944 432 472.608 432 
+L 26.496 432 
+Q 20.16 432 20.16 425.664 
+L 20.16 376.416 
+Q 20.16 370.08 26.496 370.08 
+z
+" clip-path="url(#p010ae7aefb)" style="fill: #c9dcf0; stroke: #404040; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <!-- Van Genuchten–Mualem model of a soil layer: should $l$ be fitted? -->
+    <g transform="translate(136.836 33.024)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">V</tspan>
+      <tspan x="6.206131" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="10.020447" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="14.317322" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="16.465759" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">G</tspan>
+      <tspan x="22.67189" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="26.486206" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="30.783081" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">u</tspan>
+      <tspan x="35.079956" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="38.894272" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="43.191147" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="45.578766" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="49.393082" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="53.689957" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">–</tspan>
+      <tspan x="57.986832" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">M</tspan>
+      <tspan x="65.628052" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">u</tspan>
+      <tspan x="69.924927" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="73.739243" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="76.126862" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="79.941177" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="86.625671" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="88.774109" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="95.458603" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="99.755478" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="104.052353" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="107.866669" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="110.254288" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="112.402725" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="116.6996" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="119.561386" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="121.709824" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="125.524139" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="127.672577" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="131.016922" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="135.313797" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="137.701416" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="140.089035" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="142.237473" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="144.625092" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="148.439407" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="152.736282" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="156.550598" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="159.412384" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">:</tspan>
+      <tspan x="161.800003" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="163.948441" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="167.292786" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="171.589661" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="175.886536" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">u</tspan>
+      <tspan x="180.183411" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="182.57103" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="186.867905" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="191.405396" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="193.553833" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">b</tspan>
+      <tspan x="197.850708" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="201.665024" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="203.813461" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="206.675247" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="209.062866" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="211.450485" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="213.838104" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="217.65242" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="221.949295" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">?</tspan>
+      <tspan x="189.016342" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="249.696" y="84.434016" transform="rotate(-0 249.696 84.434016)">Soil texture?</text>
+   </g>
+   <g id="text_3">
+    <g id="patch_25">
+     <path d="M 106.593125 87.735609 
+L 132.446875 87.735609 
+L 132.446875 77.000391 
+L 106.593125 77.000391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="119.52" y="84.434016" transform="rotate(-0 119.52 84.434016)">coarse</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(51.073766 153.6406)">Does the</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(39.493328 163.243306)">profile dry out?</text>
+   </g>
+   <g id="text_5">
+    <g id="patch_26">
+     <path d="M 59.286766 202.935609 
+L 73.193234 202.935609 
+L 73.193234 192.200391 
+L 59.286766 192.200391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="66.24" y="199.617891" transform="rotate(-0 66.24 199.617891)">yes</text>
+   </g>
+   <g id="text_6">
+    <!-- FIT $l$ jointly with α and $n$ -->
+    <g transform="translate(22.926 232.05865)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">F</tspan>
+      <tspan x="4.779434" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">I</tspan>
+      <tspan x="7.64122" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">T</tspan>
+      <tspan x="12.890625" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="17.428116" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="19.576553" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">j</tspan>
+      <tspan x="21.964172" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="26.261047" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="28.648666" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="32.945541" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="35.33316" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="37.720779" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="42.017654" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="44.166092" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">w</tspan>
+      <tspan x="50.372223" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="52.759842" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="55.147461" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="59.444336" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="61.592773" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">α</tspan>
+      <tspan x="66.095261" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="68.243698" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="72.058014" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="76.354889" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="80.651764" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="15.039062" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+      <tspan x="82.800201" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">n</tspan>
+     </text>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(38.453703 242.012344)">Wide prior, incl.</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(39.901594 251.913631)">negative values</text>
+   </g>
+   <g id="text_7">
+    <g id="patch_27">
+     <path d="M 133.342 183.351609 
+L 144.866 183.351609 
+L 144.866 172.616391 
+L 133.342 172.616391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="139.104" y="180.050016" transform="rotate(-0 139.104 180.050016)">no</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_28">
+     <path d="M 222.523797 127.767609 
+L 252.676203 127.767609 
+L 252.676203 117.032391 
+L 222.523797 117.032391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="237.6" y="124.466016" transform="rotate(-0 237.6 124.466016)">medium</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(195.937766 153.6406)">Does the</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(187.93775 163.243306)">site stay wet?</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_29">
+     <path d="M 205.342 202.935609 
+L 216.866 202.935609 
+L 216.866 192.200391 
+L 205.342 192.200391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="211.104" y="199.634016" transform="rotate(-0 211.104 199.634016)">no</text>
+   </g>
+   <g id="text_11">
+    <!-- SCREEN $l$ -->
+    <g transform="translate(192.457 227.118084)">
+     <text>
+      <tspan x="0" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">S</tspan>
+      <tspan x="4.779434" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">C</tspan>
+      <tspan x="10.511398" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">R</tspan>
+      <tspan x="16.243362" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">E</tspan>
+      <tspan x="21.492767" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">E</tspan>
+      <tspan x="26.742172" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">N</tspan>
+      <tspan x="32.948303" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="35.096741" y="-0.125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(180.400203 237.019372)">Morris + pairwise</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(180.804672 246.920659)">interaction screen</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(181.756719 256.821947)">over a wide prior</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_30">
+     <path d="M 300.630766 183.351609 
+L 314.537234 183.351609 
+L 314.537234 172.616391 
+L 300.630766 172.616391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="307.584" y="180.033891" transform="rotate(-0 307.584 180.033891)">yes</text>
+   </g>
+   <g id="text_13">
+    <!-- FIX $l$ = 0.5 -->
+    <g transform="translate(331.894 232.057945)">
+     <text>
+      <tspan x="0" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">F</tspan>
+      <tspan x="4.779434" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">I</tspan>
+      <tspan x="7.64122" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">X</tspan>
+      <tspan x="13.847351" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="18.384842" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="20.533279" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">=</tspan>
+      <tspan x="25.379852" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="27.52829" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">0</tspan>
+      <tspan x="31.825165" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">.</tspan>
+      <tspan x="33.973602" y="-0.125" style="font-size: 8.6px; font-family: 'Times New Roman'">5</tspan>
+      <tspan x="15.995789" y="-0.125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(320.983422 241.959232)">Report the screen</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(326.468609 251.865962)">that justifies it</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_31">
+     <path d="M 355.689641 87.743672 
+L 404.630359 87.743672 
+L 404.630359 76.992328 
+L 355.689641 76.992328 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="380.16" y="84.425953" transform="rotate(-0 380.16 84.425953)">fine / organic</text>
+   </g>
+   <g id="text_15">
+    <!-- FIT $l$ jointly with α -->
+    <g transform="translate(390.25 141.977356)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">F</tspan>
+      <tspan x="4.779434" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">I</tspan>
+      <tspan x="7.64122" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">T</tspan>
+      <tspan x="12.890625" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="17.428116" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="19.576553" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">j</tspan>
+      <tspan x="21.964172" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="26.261047" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="28.648666" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="32.945541" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="35.33316" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="37.720779" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="42.017654" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="44.166092" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">w</tspan>
+      <tspan x="50.372223" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="52.759842" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="55.147461" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="59.444336" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="61.592773" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">α</tspan>
+      <tspan x="15.039062" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <!-- and $K_s$ -->
+    <g transform="translate(411.836 151.93105)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="3.814316" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="8.111191" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="12.408066" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="14.556503" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">K</tspan>
+      <tspan x="20.288513" y="1.107812" style="font-style: italic; font-size: 6.02px; font-family: 'STIXGeneral'">s</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- Is $l$ among the top- -->
+    <g transform="translate(178.596 308.685294)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">I</tspan>
+      <tspan x="2.861786" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="6.206131" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="10.743622" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="12.892059" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="16.706375" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="23.390869" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="27.687744" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="31.984619" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">g</tspan>
+      <tspan x="36.281494" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="38.429932" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="40.817551" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="45.114426" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="48.928741" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="51.077179" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="53.464798" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="57.761673" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="62.058548" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">-</tspan>
+      <tspan x="8.354568" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(170.391734 318.340406)">ranked parameters or in</text>
+    <text style="font-size: 8.6px; font-family: 'Times New Roman'" transform="translate(167.162703 327.943112)">the dominant interaction?</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_32">
+     <path d="M 335.518 321.591609 
+L 347.042 321.591609 
+L 347.042 310.856391 
+L 335.518 310.856391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="341.28" y="318.290016" transform="rotate(-0 341.28 318.290016)">no</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_33">
+     <path d="M 213.654766 365.367609 
+L 227.561234 365.367609 
+L 227.561234 354.632391 
+L 213.654766 354.632391 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <text style="font-style: italic; font-size: 8.6px; font-family: 'Times New Roman'; text-anchor: middle" x="220.608" y="362.049891" transform="rotate(-0 220.608 362.049891)">yes</text>
+   </g>
+   <g id="text_19">
+    <!-- CALIBRATE $l$ within physically consistent bounds -->
+    <g transform="translate(160.542 388.0755)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">C</tspan>
+      <tspan x="5.731964" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">A</tspan>
+      <tspan x="11.938095" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">L</tspan>
+      <tspan x="17.1875" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">I</tspan>
+      <tspan x="20.049286" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">B</tspan>
+      <tspan x="25.78125" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">R</tspan>
+      <tspan x="31.513214" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">A</tspan>
+      <tspan x="37.719345" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">T</tspan>
+      <tspan x="42.96875" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">E</tspan>
+      <tspan x="48.218155" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="52.755646" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="54.904083" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">w</tspan>
+      <tspan x="61.110214" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="63.497833" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="65.885452" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="70.182327" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="72.569946" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="76.866821" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="79.015259" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="83.312134" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="87.609009" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="91.905884" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="95.250229" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="97.637848" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="101.452164" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="105.266479" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="107.654099" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="110.041718" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="114.338593" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="116.48703" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="120.301346" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="124.598221" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="128.895096" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="132.239441" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="134.62706" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="137.971405" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="140.359024" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="144.17334" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="148.470215" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="150.857834" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="153.006271" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">b</tspan>
+      <tspan x="157.303146" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="161.600021" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">u</tspan>
+      <tspan x="165.896896" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="170.193771" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="174.490646" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="50.366592" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <!-- • Pair $l$ with its interaction partners (α in all soils, also $K_s$ in fine soils) and with $n$ -->
+    <g transform="translate(109.802 398.0945)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">•</tspan>
+      <tspan x="3.008652" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="5.157089" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">P</tspan>
+      <tspan x="9.936523" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="13.750839" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="16.138458" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="19.000244" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="23.537735" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="25.686172" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">w</tspan>
+      <tspan x="31.892303" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="34.279922" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="36.667542" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="40.964417" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="43.112854" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="45.500473" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="47.888092" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="51.232437" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="53.380875" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="55.768494" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="60.065369" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="62.452988" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="66.267303" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="69.129089" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="72.943405" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="76.757721" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="79.14534" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="81.532959" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="85.829834" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="90.126709" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="92.275146" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="96.572021" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="100.386337" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="103.248123" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="105.635742" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="109.932617" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="113.746933" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="116.608719" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="119.953064" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="122.101501" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">(</tspan>
+      <tspan x="124.963287" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">α</tspan>
+      <tspan x="129.465775" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="131.614212" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="134.001831" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="138.298706" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="140.447144" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="144.261459" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="146.649078" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="149.036697" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="151.185135" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="154.52948" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="158.826355" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="161.213974" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="163.601593" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="166.945938" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">,</tspan>
+      <tspan x="169.094376" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="171.242813" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="175.057129" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="177.444748" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="180.789093" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="185.085968" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="195.686172" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="197.83461" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="200.222229" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="204.519104" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="206.667542" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="209.529327" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="211.916946" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="216.213821" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="220.028137" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="222.176575" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="225.52092" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="229.817795" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="232.205414" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="234.593033" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="237.937378" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">)</tspan>
+      <tspan x="240.799164" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="242.947601" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="246.761917" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="251.058792" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="255.355667" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="257.504105" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">w</tspan>
+      <tspan x="263.710236" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="266.097855" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="268.485474" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="272.782349" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="21.148682" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+      <tspan x="187.234406" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">K</tspan>
+      <tspan x="274.930786" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">n</tspan>
+      <tspan x="192.966415" y="1.107812" style="font-style: italic; font-size: 6.02px; font-family: 'STIXGeneral'">s</tspan>
+     </text>
+    </g>
+    <!-- • Enforce $l$ &gt; 1 − 2/$m$ (Peters et al., 2011) and sample $n$ and $l$ jointly, not in independent boxes -->
+    <g transform="translate(87.829 408.1135)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">•</tspan>
+      <tspan x="3.008652" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="5.157089" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">E</tspan>
+      <tspan x="10.406494" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="14.703369" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="17.565155" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="21.86203" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="24.723816" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="28.538132" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="32.352448" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="36.889938" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="39.038376" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">&gt;</tspan>
+      <tspan x="43.884949" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="46.033386" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">1</tspan>
+      <tspan x="50.330261" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="52.478699" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">−</tspan>
+      <tspan x="57.325272" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="59.473709" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">2</tspan>
+      <tspan x="63.770584" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">/</tspan>
+      <tspan x="72.362869" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="74.511307" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">(</tspan>
+      <tspan x="77.373093" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">P</tspan>
+      <tspan x="82.152527" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="85.966843" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="88.354462" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="92.168777" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="95.030563" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="98.374908" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="100.523346" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="104.337662" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="106.725281" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="108.873718" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="112.688034" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="115.075653" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">.</tspan>
+      <tspan x="117.224091" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">,</tspan>
+      <tspan x="119.372528" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="121.520966" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">2</tspan>
+      <tspan x="125.817841" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">0</tspan>
+      <tspan x="130.114716" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">1</tspan>
+      <tspan x="134.411591" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">1</tspan>
+      <tspan x="138.708466" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">)</tspan>
+      <tspan x="141.570251" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="143.718689" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="147.533005" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="151.82988" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="156.126755" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="158.275192" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="161.619537" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="165.433853" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="172.118347" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="176.415222" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="178.802841" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="182.617157" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="189.062454" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="191.210892" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="195.025208" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="199.322083" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="203.618958" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="208.156448" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="210.304886" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">j</tspan>
+      <tspan x="212.692505" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="216.98938" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="219.376999" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="223.673874" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="226.061493" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="228.449112" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">y</tspan>
+      <tspan x="232.745987" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">,</tspan>
+      <tspan x="234.894424" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="237.042862" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="241.339737" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="245.636612" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="248.024231" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="250.172668" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="252.560287" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="256.857162" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="259.0056" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="261.393219" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="265.690094" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="269.986969" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="273.801285" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="278.09816" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="281.912476" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="286.209351" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="290.506226" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="294.320541" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="298.617416" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="301.005035" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="303.153473" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">b</tspan>
+      <tspan x="307.450348" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="311.747223" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">x</tspan>
+      <tspan x="316.044098" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="319.858414" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="34.500885" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+      <tspan x="66.158203" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">m</tspan>
+      <tspan x="184.765594" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">n</tspan>
+      <tspan x="205.767395" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+    <!-- • Keep crashed or incomplete runs as information on the feasible $n$–$l$ space -->
+    <g transform="translate(120.982 418.1325)">
+     <text>
+      <tspan x="0" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">•</tspan>
+      <tspan x="3.008652" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="5.157089" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">K</tspan>
+      <tspan x="11.36322" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="15.177536" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="18.991852" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="23.288727" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="25.437164" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="29.25148" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="32.113266" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="35.927582" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="39.271927" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="43.568802" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="47.383118" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">d</tspan>
+      <tspan x="51.679993" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="53.82843" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="58.125305" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="60.987091" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="63.135529" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="65.523148" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="69.820023" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="73.634338" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="77.931213" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="84.615707" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="88.912582" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="91.300201" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="95.114517" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="97.502136" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="101.316452" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="103.46489" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="106.326675" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">u</tspan>
+      <tspan x="110.62355" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="114.920425" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="118.264771" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="120.413208" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="124.227524" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="127.571869" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="129.720306" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="132.107925" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="136.4048" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="139.266586" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="143.563461" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">r</tspan>
+      <tspan x="146.425247" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">m</tspan>
+      <tspan x="153.109741" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="156.924057" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="159.311676" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="161.699295" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="165.99617" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="170.293045" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="172.441483" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">o</tspan>
+      <tspan x="176.738358" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">n</tspan>
+      <tspan x="181.035233" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="183.18367" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">t</tspan>
+      <tspan x="185.571289" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">h</tspan>
+      <tspan x="189.868164" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="193.68248" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="195.830917" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">f</tspan>
+      <tspan x="198.692703" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="202.507019" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="206.321335" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="209.66568" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">i</tspan>
+      <tspan x="212.053299" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">b</tspan>
+      <tspan x="216.350174" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">l</tspan>
+      <tspan x="218.737793" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="222.552109" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="228.997406" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">–</tspan>
+      <tspan x="235.683334" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'"> </tspan>
+      <tspan x="237.831772" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">s</tspan>
+      <tspan x="241.176117" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">p</tspan>
+      <tspan x="245.472992" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">a</tspan>
+      <tspan x="249.287308" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">c</tspan>
+      <tspan x="253.101624" y="-0.03125" style="font-size: 8.6px; font-family: 'Times New Roman'">e</tspan>
+      <tspan x="224.700546" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">n</tspan>
+      <tspan x="233.294281" y="-0.03125" style="font-style: italic; font-size: 8.6px; font-family: 'STIXGeneral'">l</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p010ae7aefb">
+   <rect x="0" y="0" width="540.288" height="447.84"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,40 @@
+
+===== Ly1: N 1,000,000; usable 635,171 (63.5%), lost 364,829; best KGE 0.836; median 0.600; KGE > 0.8: 7023
+  Table S5: failed (crashed or stopped before day 1216) 364,829 (36.5%); non-physical 0
+  lost n>2 & l<-1: 89.6% (n=94,967) | n<2: 0.4% (n=333,333) | n>2: 54.5% (n=666,667)
+  lost n>2 & alpha>=0.05: 69.5% (n=332,860) | n>2 & alpha<0.05: 39.7% (n=333,807)
+  Peters concavity violated: 0.9% of runs, lost among them 96.5%; share of all losses that satisfy it 97.6%
+  Spearman with KGE (usable): ths1 +0.44  vgn1 -0.26  thr1 -0.14  ks1 -0.10  l1 +0.07  alf1 -0.04
+  best KGE per l class (equal n=27,548): 0.820 0.836 0.823 0.821 0.821 0.821 0.819 0.820 0.821 0.817 0.821 0.818 0.818 0.819
+  best with l >= 0: 0.822; best with 0.3 <= l <= 0.7: 0.822
+  Table S6: subset, n, KGE threshold, l median (IQR), share l < -1
+    Prior        1,000,000       –  1.50 (-0.25 to 3.25)  14.3%
+    Usable         635,171       –  1.75 (0.24 to 3.37)  8.9%
+    Best 10 %       63,518   0.757  1.47 (0.18 to 3.01)  6.8%
+    Best 1 %         6,352   0.801  1.09 (-0.15 to 2.77)  6.9%
+    Best 0.1 %         636   0.815  0.54 (-0.35 to 2.12)  8.8%
+    Best 0.01 %         64   0.820  -0.18 (-0.81 to 1.23)  15.6%
+  best 1%: n=6352 KGE>=0.801; l<0 28.7% vs usable 21.4%; Spearman n-l -0.64, alpha-l -0.27
+    relative frequency per l class: 0.32 1.20 1.79 1.73 1.29 1.09 1.02 0.99 0.93 0.80 0.80 0.71 0.71 0.69
+  best 0.1%: n=636 KGE>=0.815; l<0 37.4% vs usable 21.4%; Spearman n-l -0.83, alpha-l -0.13
+    relative frequency per l class: 0.18 1.75 2.13 2.44 1.48 1.08 0.92 0.97 1.11 0.55 0.57 0.43 0.33 0.47
+
+===== Ly2: N 1,000,000; usable 665,704 (66.6%), lost 334,296; best KGE 0.753; median 0.226; KGE > 0.8: 0
+  Table S5: failed (crashed or stopped before day 1216) 334,279 (33.4%); non-physical 17
+  lost n>2 & l<-1: 71.0% (n=96,603) | n<2: 0.6% (n=322,034) | n>2: 49.0% (n=677,966)
+  lost n>2 & alpha>=0.05: 79.3% (n=250,718) | n>2 & alpha<0.05: 31.3% (n=427,248)
+  Peters concavity violated: 0.9% of runs, lost among them 86.0%; share of all losses that satisfy it 97.7%
+  Spearman with KGE (usable): ths1 -0.39  vgn1 -0.20  thr1 +0.08  ks1 +0.37  l1 +0.01  alf1 -0.09
+  best KGE per l class (equal n=34,775): 0.724 0.753 0.733 0.605 0.585 0.581 0.581 0.584 0.581 0.581 0.583 0.585 0.581 0.583
+  best with l >= 0: 0.589; best with 0.3 <= l <= 0.7: 0.587
+  Table S6: subset, n, KGE threshold, l median (IQR), share l < -1
+    Prior        1,000,000       –  1.50 (-0.25 to 3.25)  14.3%
+    Usable         665,704       –  1.65 (0.02 to 3.33)  11.0%
+    Best 10 %       66,571   0.455  1.20 (-0.33 to 2.94)  13.9%
+    Best 1 %         6,658   0.541  0.77 (-0.93 to 2.78)  23.3%
+    Best 0.1 %         666   0.579  -1.27 (-1.50 to -1.01)  75.4%
+    Best 0.01 %         67   0.669  -1.35 (-1.51 to -1.19)  94.0%
+  best 1%: n=6658 KGE>=0.541; l<0 40.6% vs usable 24.7%; Spearman n-l -0.40, alpha-l -0.28
+    relative frequency per l class: 1.80 2.42 1.61 0.93 0.84 0.72 0.83 0.83 0.84 0.81 0.82 0.76 0.70 0.74
+  best 0.1%: n=666 KGE>=0.579; l<0 93.4% vs usable 24.7%; Spearman n-l +0.21, alpha-l -0.56
+    relative frequency per l class: 4.83 8.74 2.50 0.23 0.16 0.04 0.06 0.12 0.14 0.08 0.12 0.08 0.04 0.04

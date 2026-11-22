@@ -1,0 +1,8 @@
+p1,p2,v1,v2,q_sim,t_end,reason,lysimeter
+vgn1,l1,2.05,-2.0,,,did not finish,ly1
+alf1,ks1,0.0005,600.0,301.156,1216.0,outflow > precipitation,ly2
+alf1,ks1,0.0005,4000.0,1368.52,1216.0,outflow > precipitation,ly2
+alf1,ks1,0.0005,30000.0,,,did not finish,ly2
+alf1,ks1,0.002,30000.0,462.6605,1216.0,outflow > precipitation,ly2
+vgn1,ks1,1.05,30000.0,340.1425,1216.0,outflow > precipitation,ly2
+ks1,l1,30000.0,-2.0,595.4535,1216.0,outflow > precipitation,ly2

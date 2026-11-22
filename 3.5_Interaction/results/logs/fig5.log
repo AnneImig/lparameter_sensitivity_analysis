@@ -1,0 +1,37 @@
+ly1: 375 runs, rain 290.4 cm; excluded 1 (1 did not finish, 0 outflow > precipitation)
+ly2: 375 runs, rain 290.4 cm; excluded 6 (1 did not finish, 5 outflow > precipitation)
+wrote /Users/scratch/portega/SA_6VGN_parameters/results/ddq_fig5/fig5_ddq.png
+ly1
+  p1   p2  ddQ_pct  reduced_range
+thr1 ths1   -13.62          False
+thr1 alf1     3.43          False
+thr1 vgn1    -1.47          False
+thr1  ks1    -0.10          False
+thr1   l1     1.90          False
+ths1 alf1    -9.03          False
+ths1 vgn1     0.01          False
+ths1  ks1    -1.07          False
+ths1   l1    -7.96          False
+alf1 vgn1    21.83          False
+alf1  ks1    -1.94          False
+alf1   l1    27.42          False
+vgn1  ks1    -1.14          False
+vgn1   l1    -3.62           True
+ ks1   l1    -6.35          False
+ly2
+  p1   p2  ddQ_pct  reduced_range
+thr1 ths1   -10.70          False
+thr1 alf1     2.97          False
+thr1 vgn1    -4.71          False
+thr1  ks1     2.01          False
+thr1   l1     2.64          False
+ths1 alf1    -5.86          False
+ths1 vgn1    10.75          False
+ths1  ks1    -5.44          False
+ths1   l1    -6.16          False
+alf1 vgn1    16.64          False
+alf1  ks1    -4.33           True
+alf1   l1    34.54          False
+vgn1  ks1    -0.76           True
+vgn1   l1    -8.17          False
+ ks1   l1   -15.37           True
